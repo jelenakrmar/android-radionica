@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#93a3ff</color>
+    <color name="colorPrimaryDark">#000000</color> <!-- Trik da bismo promenili boju Status bara. -->
+    <color name="colorAccent">#FF4081</color>
+</resources>
