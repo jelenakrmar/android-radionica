@@ -3,7 +3,7 @@
 [Magic 8-ball](https://en.wikipedia.org/wiki/Magic_8-Ball) je populana iračka za proricanje sudbine nastala u pedesetim. Kažu da se godišnje proda milion njih. 
 Na ovoj radionici smo pravili sličnu magičnu kuglu, ali kvadratnog oblika zarad jednostavnosti :)
 
-# Uputstva kako smo ovo napravili 
+# Uputstvo kako smo ovo napravili 
 
 1. Kad smo kreirali projekat, dodali smo jednu praznu aktivnost `Empty Activity`  
 2. Prvo smo se pozabavili vizuelnim izgledom.  
