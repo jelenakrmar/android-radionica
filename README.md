@@ -3,6 +3,8 @@
 [Magic 8-ball](https://en.wikipedia.org/wiki/Magic_8-Ball) je populana iračka za proricanje sudbine nastala u pedesetim. Kažu da se godišnje proda milion njih. 
 Na ovoj radionici smo pravili sličnu magičnu kuglu, ali kvadratnog oblika zarad jednostavnosti :)
 
+* [Slajdovi sa prve radionice](https://www.slideshare.net/JelenaKrmar/razvoj-android-aplikacija-1-uvod)
+
 # Uputstvo kako smo ovo napravili 
 
 1. Kad smo kreirali projekat, dodali smo jednu praznu aktivnost `Empty Activity`  
