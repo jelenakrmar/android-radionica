@@ -4,6 +4,7 @@
 Na ovoj radionici smo pravili sličnu magičnu kuglu, ali kvadratnog oblika zarad jednostavnosti :)
 
 * [Slajdovi sa prve radionice](https://www.slideshare.net/JelenaKrmar/razvoj-android-aplikacija-1-uvod)
+* [Slajdovi sa druge radionice](https://www.slideshare.net/JelenaKrmar/razvoj-android-aplikacija-2-praktian-primer)
 
 # Uputstvo kako smo ovo napravili 
 
