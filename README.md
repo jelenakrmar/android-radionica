@@ -5,7 +5,7 @@ Na ovoj radionici smo pravili sličnu magičnu kuglu, ali kvadratnog oblika zara
 
 Čemu služi ova aplikacija? Kada ste u nedoumici oko bilo čega, postavite aplikaciji pitanje na koje može da odgovori sa DA ili NE. Onda tapnite na dugme da dobijete odgovor.
 
-A sad s programerske tačke gledišta: Potrebno je da se pritiskom na dugme u polju za odgovor prikaže nasumičan tekst iz liste definisanih tekstova ("Ne", "Nikad", "Definitivno", "Da", "Verovatno", "Možda", "Nemam pojma").
+A sad s programerske tačke gledišta: potrebno je da se pritiskom na dugme u polju za odgovor prikaže nasumičan tekst iz liste definisanih tekstova ("Ne", "Nikad", "Definitivno", "Da", "Verovatno", "Možda", "Nemam pojma").
 
 * [Slajdovi sa prve radionice](https://www.slideshare.net/JelenaKrmar/razvoj-android-aplikacija-1-uvod)
 * [Slajdovi sa druge radionice](https://www.slideshare.net/JelenaKrmar/razvoj-android-aplikacija-2-praktian-primer)
