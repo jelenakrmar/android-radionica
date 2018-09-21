@@ -25,6 +25,7 @@ A sad s programerske tačke gledišta: potrebno je da se pritiskom na dugme u po
   d. Postavili nasumičan odgovor kao vrednost teksta: `answer.setText(...`
 4. Postavili odgovarajuću ikonicu koju smo napravili koristeći [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) i ubacili je u folder `res / mipmap` (zamenili defaultnu).
 
-![Primer 1](https://github.com/jelenakrmar/android-radionica/blob/master/Screenshot1.png | width=100)
+<img src="https://github.com/jelenakrmar/android-radionica/blob/master/Screenshot1.png" alt="Primer 1" width="108" height="192">
+
 ![Primer 2](https://github.com/jelenakrmar/android-radionica/blob/master/Screenshot2.png =108x192)
 
